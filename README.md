@@ -63,15 +63,20 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hariprasanth018&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=hariprasanth018&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasanth018&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hariprasanth018&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=hariprasanth018&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
