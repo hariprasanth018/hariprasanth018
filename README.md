@@ -61,31 +61,20 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=hariprasanth018&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hariprasanth018&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=hariprasanth018&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/hariprasanth018">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:mrhariprasanth493@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hari0018">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
