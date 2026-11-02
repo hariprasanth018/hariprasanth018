@@ -32,7 +32,7 @@
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
@@ -50,7 +50,7 @@
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ### 🤖 AI & Data Science
