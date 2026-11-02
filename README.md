@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hariprasanth018/hariprasanth018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Hariprasanth R 👋
 
-Here are some ideas to get you started:
+### Developer | Tech Enthusiast | Lifelong Learner 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Ideas+Into+Reality" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Computer Science Engineering Student
+* 💻 Interested in Software Development
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 📊 Learning Data Engineering
+* 🌱 Constantly learning and experimenting with new technologies
+* ⚡ Believe in learning by building!
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+### 🤖 AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hariprasanth018&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasanth018&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=hariprasanth018&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hariprasanth018">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Code • Create • Learn • Repeat
+
+⭐ Thanks for visiting my profile!
+
+</div>
